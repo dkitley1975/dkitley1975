@@ -9,7 +9,7 @@
 </a>
 <br>
 
-![Movie Quiz mock up](./assets/yoga-centric-screen-view-mockup-image.jpg)
+![Movie Quiz mock up](./assets/yoga-centric-screen-view-mockup-image.png)
 <a href="https://github.com/dkitley1975/yoga-centric">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=yoga-centric&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
