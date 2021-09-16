@@ -3,7 +3,14 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KitleyMcNamara)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-kitley-mcnamara/)
 
-![Movie Quiz mock up](./assets/movie-quiz-screen-view-mockup-image.png)
+<br>
+<a href="(https://dkitley1975.github.io/movie-quiz/">
+<p align="center">
+  <img style="margin:1rem 0.5rem" src="./assets/movie-quiz-screen-view-mockup-image.png" />
+</a>
+</p>
+
+<br>
 <a href="https://github.com/dkitley1975/movie-quiz">
 <p align="center">
   <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=movie-quiz&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -11,8 +18,11 @@
 </p>
 <br>
 
-![Movie Quiz mock up](./assets/yoga-centric-screen-view-mockup-image.png)
+<a href="(https://dkitley1975.github.io/yoga-centric/">
 <p align="center">
+  <img style="margin:1rem 0.5rem" src="./assets/yoga-centric-screen-view-mockup-image.png" />
+</a>
+<br>
 <a href="https://github.com/dkitley1975/yoga-centric">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=yoga-centric&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
