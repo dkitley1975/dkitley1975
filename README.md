@@ -29,11 +29,14 @@ The goal of the site was to demonstrate my knowledge of javascript whilst provid
 # Yoga Centric
 ## Milestone Project One
 My first web site built from scratch, this was to demonstrate my new found knowledge of HTML and CSS
-<p align="center">
 
+<p align="center">
+<br>
 <a href="https://dkitley1975.github.io/yoga-centric/index.html"><img src="./assets/yoga-centric-screen-view-mockup-image.png" alt="Yoga Centric"></a>
 <a href="https://github.com/dkitley1975/yoga-centric">
 <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=yoga-centric&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+<br>
+<br>
 </p>
 
 <!--
