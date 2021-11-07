@@ -8,11 +8,26 @@ Hi I'm a Junior Full Stack Developer in training with the Code Institute and thi
 🌱 I’m currently learning ... The Python Essentials
   
 ## Projects completed
+- [Hangman](#hangman)
+  - [Milestone Project Three](#milestone-project-three)
 - [Movie Quiz](#movie-quiz)
   - [Milestone Project Two](#milestone-project-two)
 - [Yoga Centric](#yoga-centric)
   - [Milestone Project One](#milestone-project-one)
-  
+
+# Hangman
+## Milestone Project Three
+This is my Hangman game.
+The goal of the game is to demonstrate my knowledge of python whilst providing a fun game, which runs in the Code Institute mock terminal on Heroku with the constraints of a window size of 80 by 24 characters . The Game words are fetched from [Random Word (API)](https://random-word-api.herokuapp.com/home)
+<p align="center">
+<br>
+<a href="https://dkitley-hangman.herokuapp.com/"><img src="./assets/hangman-screenshot.png" alt="Hangman Game"></a>
+<a href="https://github.com/dkitley1975/hangman">
+<img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=hangman&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+<br>
+<br>
+</p>
+
 # Movie Quiz
 ## Milestone Project Two
 This is my movie quiz site.
