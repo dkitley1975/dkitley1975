@@ -5,18 +5,19 @@
 
 Hi I'm a Junior Full Stack Developer in training with the Code Institute and this is my GitHub repository to show my projects towards my Diploma in Software Development (E-commerce Applications)
 
-🌱 I’m currently learning ... The Python Essentials
+🌱 I’m currently working towards creating ... 
+Building a Full-Stack site based on business logic used to control a centrally-owned dataset. Setting up an authentication mechanism and providing a role-based access to the site's data or other activities based on the dataset.
   
 ## Projects completed
 - [Hangman](#hangman)
-  - [Milestone Project Three](#milestone-project-three)
+  - [Portfolio Project Three](#portfolio-project-three)
 - [Movie Quiz](#movie-quiz)
-  - [Milestone Project Two](#milestone-project-two)
+  - [Portfolio Project Two](#portfolio-project-two)
 - [Yoga Centric](#yoga-centric)
-  - [Milestone Project One](#milestone-project-one)
+  - [Portfolio Project One](#portfolio-project-one)
 
 # Hangman
-## Milestone Project Three
+## Portfolio Project Three
 This is my Hangman game.
 The goal of the game is to demonstrate my knowledge of python whilst providing a fun game, which runs in the Code Institute mock terminal on Heroku with the constraints of a window size of 80 by 24 characters . The Game words are fetched from [Random Word (API)](https://random-word-api.herokuapp.com/home)
 <p align="center">
@@ -29,9 +30,10 @@ The goal of the game is to demonstrate my knowledge of python whilst providing a
 </p>
 
 # Movie Quiz
-## Milestone Project Two
+## Portfolio Project Two
 This is my movie quiz site.
 The goal of the site was to demonstrate my knowledge of javascript whilst providing a fun quiz game. These questions are fetched from [Open Trivia (API) Database](https://opentdb.com/api_config.php)
+For this project I am delighted to say that I received a Distinction.
 <p align="center">
 <br>
 <a href="https://dkitley1975.github.io/movie-quiz/index.html"><img src="./assets/movie-quiz-screen-view-mockup-image.png" alt="Movie Quiz"></a>
@@ -42,8 +44,9 @@ The goal of the site was to demonstrate my knowledge of javascript whilst provid
 </p>
 
 # Yoga Centric
-## Milestone Project One
-My first web site built from scratch, this was to demonstrate my new found knowledge of HTML and CSS
+## Portfolio Project One
+My first web site built from scratch, this was to demonstrate my new found knowledge of HTML and CSS.
+For this project I am happy to say I received a Merit.
 
 <p align="center">
 <br>
