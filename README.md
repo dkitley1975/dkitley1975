@@ -7,11 +7,17 @@
 
 Hi I'm a Junior Full Stack Developer in training with the Code Institute and this is my GitHub repository to show my projects towards my Diploma in Software Development (E-commerce Applications)
 
-🌱 I’m currently working towards creating ... 
+# Currently working on:
+
+## *Portfolio Project Four*
+
 Building a Full-Stack site based on business logic used to control a centrally-owned dataset. Setting up an authentication mechanism and providing a role-based access to the site's data or other activities based on the dataset.
   
-## Projects completed
+# Portfolio Projects Completed
 
+- [Currently working on:](#currently-working-on)
+  - [*Portfolio Project Four*](#portfolio-project-four)
+- [Portfolio Projects Completed](#portfolio-projects-completed)
 - [Hangman](#hangman)
   - [Portfolio Project Three](#portfolio-project-three)
 - [Movie Quiz](#movie-quiz)
@@ -65,19 +71,3 @@ For this project I am happy to say I received a Merit.
 <br>
 <br>
 </p>
-
-<!--
-**dkitley1975/dkitley1975** 
-is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
