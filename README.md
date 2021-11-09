@@ -1,7 +1,9 @@
 [![David's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/david-kitley-mcnamara)
 
+[![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=1CA2F1)](https://github.com/dkitley1975/dkitley1975)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/david-kitley-mcnamara/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KitleyMcNamara)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-kitley-mcnamara/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/david.kitley)
 
 Hi I'm a Junior Full Stack Developer in training with the Code Institute and this is my GitHub repository to show my projects towards my Diploma in Software Development (E-commerce Applications)
 
@@ -9,6 +11,7 @@ Hi I'm a Junior Full Stack Developer in training with the Code Institute and thi
 Building a Full-Stack site based on business logic used to control a centrally-owned dataset. Setting up an authentication mechanism and providing a role-based access to the site's data or other activities based on the dataset.
   
 ## Projects completed
+
 - [Hangman](#hangman)
   - [Portfolio Project Three](#portfolio-project-three)
 - [Movie Quiz](#movie-quiz)
@@ -17,7 +20,9 @@ Building a Full-Stack site based on business logic used to control a centrally-o
   - [Portfolio Project One](#portfolio-project-one)
 
 # Hangman
+
 ## Portfolio Project Three
+
 This is my Hangman game.
 The goal of the game is to demonstrate my knowledge of python whilst providing a fun game, which runs in the Code Institute mock terminal on Heroku with the constraints of a window size of 80 by 24 characters . The Game words are fetched from [Random Word (API)](https://random-word-api.herokuapp.com/home)
 <p align="center">
@@ -30,7 +35,9 @@ The goal of the game is to demonstrate my knowledge of python whilst providing a
 </p>
 
 # Movie Quiz
+
 ## Portfolio Project Two
+
 This is my movie quiz site.
 The goal of the site was to demonstrate my knowledge of javascript whilst providing a fun quiz game. These questions are fetched from [Open Trivia (API) Database](https://opentdb.com/api_config.php)
 For this project I am delighted to say that I received a Distinction.
@@ -44,7 +51,9 @@ For this project I am delighted to say that I received a Distinction.
 </p>
 
 # Yoga Centric
+
 ## Portfolio Project One
+
 My first web site built from scratch, this was to demonstrate my new found knowledge of HTML and CSS.
 For this project I am happy to say I received a Merit.
 
@@ -64,7 +73,6 @@ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
