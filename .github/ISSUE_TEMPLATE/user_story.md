@@ -1,11 +1,4 @@
----
-name: Feature request
-about: Describe a user issue and proposed tasks
-title: New Feature
-labels: documentation, Project Tasks
-assignees: ''
----
-
+# User Story
 *As* - *a user/an owner* of the website,
 *I would like* Please describe with a clear and concise description of what the problem is.
 Ex. I'm always frustrated when [...]
