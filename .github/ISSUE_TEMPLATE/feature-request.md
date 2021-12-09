@@ -6,25 +6,27 @@ labels: documentation, Project Tasks
 assignees: ''
 ---
 
-**Is your feature request related to a problem?**
-
-Please describe with a clear and concise description of what the problem is.
+*As a* - user/owner of the website,
+**I want** Please describe with a clear and concise description of what the problem is.
 Ex. I'm always frustrated when [...]
 
 **Describe the solution you'd like**
 
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
+### Acceptance Criteria
 
-A clear and concise description of any alternative solutions or features you've considered.
+1. [If I do A.]
+1. [B should happen.]
 
-**Additional context**
+**Also, here are a few points that need to be addressed:**
 
-Add any other context or screenshots about the feature request here.
+1. Constraint.
+1. Constraint.
+1. Constraint.
 
-### Tasks
+### Tasks to Impliment
 
-- [ ] : Task 1
-- [ ] : Task 2
-- [ ] : Task 3
+1. [ ] : Task 1
+1. [ ] : Task 2
+1. [ ] : Task 3
