@@ -1,13 +1,13 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: documentation, enhancement
+title: Brief Description of Feature Request
+labels: enhancement
 assignees: ''
 
 ---
 
-*As* - *a user/an owner* of the website,
+## *As* - *a user/an owner* of the website,
 *I would like* Please describe with a clear and concise description of what the problem is.
 Ex. I'm always frustrated when [...]
 
