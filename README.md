@@ -15,16 +15,16 @@ E-commerce Applications
 Project purpose:
 Build a Full-Stack site based on business logic used to control a centrally-owned dataset. Set up an authentication mechanism and provide paid access to the site's data and/or other activities based on the dataset, such as the purchase of a product/service..
 
--   [Currently working on:](#currently-working-on)
-    -   [_Portfolio Project Five_](#portfolio-project-five)
-    -   [Leanne's Learners](#leannes-learners)
-        -   [Portfolio Project Four](#portfolio-project-four)
-    -   [Hangman](#hangman)
-        -   [Portfolio Project Three](#portfolio-project-three)
-    -   [Movie Quiz](#movie-quiz)
-        -   [Portfolio Project Two](#portfolio-project-two)
-    -   [Yoga Centric](#yoga-centric)
-        -   [Portfolio Project One](#portfolio-project-one)
+- [Currently working on:](#currently-working-on)
+  - [_Portfolio Project Five_](#portfolio-project-five)
+  - [Leanne's Learners](#leannes-learners)
+    - [Portfolio Project Four](#portfolio-project-four)
+  - [Hangman](#hangman)
+    - [Portfolio Project Three](#portfolio-project-three)
+  - [Movie Quiz](#movie-quiz)
+    - [Portfolio Project Two](#portfolio-project-two)
+  - [Yoga Centric](#yoga-centric)
+    - [Portfolio Project One](#portfolio-project-one)
 
 ## Leanne's Learners
 
@@ -40,7 +40,7 @@ The site takes advantage of the Django Framework and Bootstrap.
 
 <p align="center">
 <br>
-<a href="https://leannes-learners.herokuapp.com/"><img src="./assets/leannes-learners-screenshot.jpg" alt="Leanne's Learners"></a>
+<a href="https://leannes-learners.herokuapp.com/"><img src="./assets/leannes-learners-screenshot.png" alt="Leanne's Learners"></a>
 <a href="https://github.com/dkitley1975/leannes-learners">
 <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=leannes-learners&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
 <br>
