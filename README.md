@@ -15,16 +15,16 @@ E-commerce Applications
 Project purpose:
 Build a Full-Stack site based on business logic used to control a centrally-owned dataset. Set up an authentication mechanism and provide paid access to the site's data and/or other activities based on the dataset, such as the purchase of a product/service..
 
-- [Currently working on:](#currently-working-on)
-  - [_Portfolio Project Five_](#portfolio-project-five)
-  - [Leanne's Learners](#leannes-learners)
-    - [Portfolio Project Four](#portfolio-project-four)
-  - [Hangman](#hangman)
-    - [Portfolio Project Three](#portfolio-project-three)
-  - [Movie Quiz](#movie-quiz)
-    - [Portfolio Project Two](#portfolio-project-two)
-  - [Yoga Centric](#yoga-centric)
-    - [Portfolio Project One](#portfolio-project-one)
+-   [Currently working on:](#currently-working-on)
+    -   [_Portfolio Project Five_](#portfolio-project-five)
+    -   [Leanne's Learners](#leannes-learners)
+        -   [Portfolio Project Four](#portfolio-project-four)
+    -   [Hangman](#hangman)
+        -   [Portfolio Project Three](#portfolio-project-three)
+    -   [Movie Quiz](#movie-quiz)
+        -   [Portfolio Project Two](#portfolio-project-two)
+    -   [Yoga Centric](#yoga-centric)
+        -   [Portfolio Project One](#portfolio-project-one)
 
 ## Leanne's Learners
 
