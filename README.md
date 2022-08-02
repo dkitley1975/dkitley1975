@@ -41,7 +41,7 @@ The site takes advantage of the Django Framework and Bootstrap.
 <br>
 <a href="https://lkm-creations.herokuapp.com/"><img src="./assets/lkm-creations-screenshot.png" alt="LKM Creations"></a>
 <a href="https://github.com/dkitley1975/lkm-creations/">
-<img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=leannes-learners&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+<img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=lkm-creations&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
 <br>
 <br>
 </p>
