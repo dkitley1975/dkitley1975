@@ -17,6 +17,8 @@ Build a Full-Stack site based on business logic used to control a centrally-owne
 
 - [Currently working on:](#currently-working-on)
   - [_Portfolio Project Five_](#portfolio-project-five)
+  - [LKM Creations](#lkm-creations)
+    - [Portfolio Project Five](#portfolio-project-five-1)
   - [Leanne's Learners](#leannes-learners)
     - [Portfolio Project Four](#portfolio-project-four)
   - [Hangman](#hangman)
@@ -26,13 +28,32 @@ Build a Full-Stack site based on business logic used to control a centrally-owne
   - [Yoga Centric](#yoga-centric)
     - [Portfolio Project One](#portfolio-project-one)
 
+## LKM Creations
+
+### Portfolio Project Five
+
+This is my website for LKM Creations.
+The goal of this site was to build a Full-Stack E-Commerce site.
+
+The site takes advantage of the Django Framework and Bootstrap.
+
+<p align="center">
+<br>
+<a href="https://lkm-creations.herokuapp.com/"><img src="./assets/lkm-creations-screenshot.png" alt="LKM Creations"></a>
+<a href="https://github.com/dkitley1975/lkm-creations/">
+<img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dkitley1975&repo=leannes-learners&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+<br>
+<br>
+</p>
+
+
 ## Leanne's Learners
 
 ### Portfolio Project Four
 
 This is my website for Leanne's Learners.
-The goal of this site was to build a Full-Stack site based on business logic used to control a centrally-owned dataset. Setting up an authentication mechanism and providing a role-based access to the site's data or other activities based on the dataset.  
-The Site allows Staff members to create, edit and delete blog posts from the Frontend. Also be able to delete any Post's comment.  
+The goal of this site was to build a Full-Stack site based on business logic used to control a centrally-owned dataset. Setting up an authentication mechanism and providing a role-based access to the site's data or other activities based on the dataset.
+The Site allows Staff members to create, edit and delete blog posts from the Frontend. Also be able to delete any Post's comment.
 Registered site users can add likes to posts, create comments, add likes and dislikes to comments, reply to comments and delete their own comments.
 Staff members are able to fill all pages information from within the Administration site.
 
