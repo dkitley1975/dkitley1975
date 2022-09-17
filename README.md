@@ -5,20 +5,20 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KitleyMcNamara)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/david.kitley)
 
-Hi I'm a Junior Full Stack Developer in training with the Code Institute and this is my GitHub repository to show my projects towards my Diploma in Software Development (E-commerce Applications)
+Hi I'm a Junior Full Stack Developer I recently received my Diploma in Full Stack Software Development (E-commerce Applications) [certificate link](https://www.credential.net/6bf711c7-2478-4e81-9841-e0aa52414f54)
 
-# Currently working on:
+Diploma in Full Stack Software Development (E-commerce Applications) from the Code Institute, passing with a Merit Grade, and this is my GitHub repository to show my projects created during this period contributing towards my final grade.
 
-## _Portfolio Project Five_
 
-E-commerce Applications
-Project purpose:
-Build a Full-Stack site based on business logic used to control a centrally-owned dataset. Set up an authentication mechanism and provide paid access to the site's data and/or other activities based on the dataset, such as the purchase of a product/service..
-
-- [Currently working on:](#currently-working-on)
-  - [_Portfolio Project Five_](#portfolio-project-five)
+# Table of Contents <!-- omit in toc -->
+- [Aditional learning](#aditional-learning)
+  - [Currently taking:](#currently-taking)
+    - [Udemy - Modern React with Redux -](#udemy---modern-react-with-redux--)
+  - [Recently Completed:](#recently-completed)
+    - [Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!](#udemy---advanced-css-and-sass-flexbox-grid-animations-and-more)
+- [Project work](#project-work)
   - [LKM Creations](#lkm-creations)
-    - [Portfolio Project Five](#portfolio-project-five-1)
+    - [Portfolio Project Five](#portfolio-project-five)
   - [Leanne's Learners](#leannes-learners)
     - [Portfolio Project Four](#portfolio-project-four)
   - [Hangman](#hangman)
@@ -28,12 +28,43 @@ Build a Full-Stack site based on business logic used to control a centrally-owne
   - [Yoga Centric](#yoga-centric)
     - [Portfolio Project One](#portfolio-project-one)
 
-## LKM Creations
+***
+# Aditional learning
+## Currently taking:
+### Udemy - Modern React with Redux -
+Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!
 
+
+<p align="center">
+<br>
+<a href="https://www.udemy.com/course/react-redux/"><img src="./assets/modern-react.jpg" alt="LKM Creations" style="width:250px"></a>
+<br>
+<br>
+</p>
+
+***
+## Recently Completed:
+### Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.
+
+
+<p align="center">
+<br>
+<a href="https://www.udemy.com/course/react-redux/"><img src="./assets/sass.jpg" alt="LKM Creations" style="width:250px"></a>
+<br>
+<br>
+</p>
+
+***
+
+# Project work
+## LKM Creations
 ### Portfolio Project Five
 
 This is my website for LKM Creations.
 The goal of this site was to build a Full-Stack E-Commerce site.
+
+Building a Full-Stack site based on business logic used to control a centrally-owned dataset. Set up an authentication mechanism and provide paid access to the site's data and/or other activities based on the dataset, such as the purchase of a product/service.
 
 The site takes advantage of the Django Framework and Bootstrap.
 
@@ -46,9 +77,8 @@ The site takes advantage of the Django Framework and Bootstrap.
 <br>
 </p>
 
-
+***
 ## Leanne's Learners
-
 ### Portfolio Project Four
 
 This is my website for Leanne's Learners.
@@ -68,8 +98,8 @@ The site takes advantage of the Django Framework and Bootstrap.
 <br>
 </p>
 
+***
 ## Hangman
-
 ### Portfolio Project Three
 
 This is my Hangman game.
@@ -84,8 +114,8 @@ The goal of the game is to demonstrate my knowledge of python whilst providing a
 <br>
 </p>
 
+***
 ## Movie Quiz
-
 ### Portfolio Project Two
 
 This is my movie quiz site.
@@ -101,8 +131,8 @@ For this project I am delighted to say that I received a Distinction.
 <br>
 </p>
 
+***
 ## Yoga Centric
-
 ### Portfolio Project One
 
 My first web site built from scratch, this was to demonstrate my new found knowledge of HTML and CSS.
