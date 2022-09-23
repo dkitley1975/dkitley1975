@@ -5,13 +5,11 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KitleyMcNamara)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/david.kitley)
 
-Hi I'm a Junior Full Stack Developer I recently received my Diploma in Full Stack Software Development (E-commerce Applications) [certificate link](https://www.credential.net/6bf711c7-2478-4e81-9841-e0aa52414f54)
-
-Diploma in Full Stack Software Development (E-commerce Applications) from the Code Institute, passing with a Merit Grade, and this is my GitHub repository to show my projects created during this period contributing towards my final grade.
+Hi I'm a Junior Full Stack Developer I recently received my Diploma in Full Stack Software Development (E-commerce Applications) [certificate link](https://www.credential.net/6bf711c7-2478-4e81-9841-e0aa52414f54) from the Code Institute, passing with a Merit Grade, and this is my GitHub repository to show my projects created during this period contributing towards my final grade.
 
 
 # Table of Contents <!-- omit in toc -->
-- [Aditional learning](#aditional-learning)
+- [Additional Courses taken.](#additional-courses-taken)
   - [Currently taking:](#currently-taking)
     - [Udemy - Modern React with Redux -](#udemy---modern-react-with-redux--)
   - [Recently Completed:](#recently-completed)
@@ -29,7 +27,7 @@ Diploma in Full Stack Software Development (E-commerce Applications) from the Co
     - [Portfolio Project One](#portfolio-project-one)
 
 ***
-# Aditional learning
+# Additional Courses taken.
 ## Currently taking:
 ### Udemy - Modern React with Redux -
 Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!
@@ -88,6 +86,7 @@ Registered site users can add likes to posts, create comments, add likes and dis
 Staff members are able to fill all pages information from within the Administration site.
 
 The site takes advantage of the Django Framework and Bootstrap.
+For this project I am happy to say I received a Merit.
 
 <p align="center">
 <br>
@@ -103,7 +102,7 @@ The site takes advantage of the Django Framework and Bootstrap.
 ### Portfolio Project Three
 
 This is my Hangman game.
-The goal of the game is to demonstrate my knowledge of python whilst providing a fun game, which runs in the Code Institute mock terminal on Heroku with the constraints of a window size of 80 by 24 characters . The Game words are fetched from [Random Word (API)](https://random-word-api.herokuapp.com/home)
+The goal of the game is to demonstrate my knowledge of python whilst providing a fun game, which runs in the Code Institute mock terminal on Heroku with the constraints of a window size of 80 by 24 characters . The Game words are fetched from [Random Word (API)](https://random-word-api.herokuapp.com/home). For this project I am happy to say I received a Merit.
 
 <p align="center">
 <br>
