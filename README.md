@@ -60,6 +60,7 @@ The most advanced and modern CSS course on the internet: master flexbox, CSS Gri
 ### Portfolio Project Five
 
 This is my website for LKM Creations.
+[Live link](https://lkm-creations.herokuapp.com/) [Repository](https://github.com/dkitley1975/lkm-creations/)
 The goal of this site was to build a Full-Stack E-Commerce site.
 
 Building a Full-Stack site based on business logic used to control a centrally-owned dataset. Set up an authentication mechanism and provide paid access to the site's data and/or other activities based on the dataset, such as the purchase of a product/service.
@@ -80,6 +81,7 @@ The site takes advantage of the Django Framework and Bootstrap.
 ### Portfolio Project Four
 
 This is my website for Leanne's Learners.
+[Live link](https://leannes-learners.herokuapp.com/) [Repository](https://github.com/dkitley1975/leannes-learners)
 The goal of this site was to build a Full-Stack site based on business logic used to control a centrally-owned dataset. Setting up an authentication mechanism and providing a role-based access to the site's data or other activities based on the dataset.
 The Site allows Staff members to create, edit and delete blog posts from the Frontend. Also be able to delete any Post's comment.
 Registered site users can add likes to posts, create comments, add likes and dislikes to comments, reply to comments and delete their own comments.
@@ -102,6 +104,8 @@ For this project I am happy to say I received a Merit.
 ### Portfolio Project Three
 
 This is my Hangman game.
+[Live link](https://dkitley-hangman.herokuapp.com/) [Repository](https://github.com/dkitley1975/hangman)
+
 The goal of the game is to demonstrate my knowledge of python whilst providing a fun game, which runs in the Code Institute mock terminal on Heroku with the constraints of a window size of 80 by 24 characters . The Game words are fetched from [Random Word (API)](https://random-word-api.herokuapp.com/home). For this project I am happy to say I received a Merit.
 
 <p align="center">
@@ -118,6 +122,8 @@ The goal of the game is to demonstrate my knowledge of python whilst providing a
 ### Portfolio Project Two
 
 This is my movie quiz site.
+[Live link](https://dkitley1975.github.io/movie-quiz/) [Repository](https://github.com/dkitley1975/movie-quiz)
+
 The goal of the site was to demonstrate my knowledge of javascript whilst providing a fun quiz game. These questions are fetched from [Open Trivia (API) Database](https://opentdb.com/api_config.php)
 For this project I am delighted to say that I received a Distinction.
 
@@ -134,8 +140,11 @@ For this project I am delighted to say that I received a Distinction.
 ## Yoga Centric
 ### Portfolio Project One
 
-My first web site built from scratch, this was to demonstrate my new found knowledge of HTML and CSS.
+My first web site built from scratch for Yoga-Centric
+[Live link](https://dkitley1975.github.io/yoga-centric/) [Repository](https://github.com/dkitley1975/yoga-centric)
+This was to demonstrate my new found knowledge of HTML and CSS.
 For this project I am happy to say I received a Merit.
+
 
 <p align="center">
 <br>
